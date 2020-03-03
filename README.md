@@ -8,13 +8,13 @@ First ensure you are in a new and empty directory.
 
 1. Run the `unbox` command via `npx` and skip to step 3. This will install all necessary dependencies. A Create-React-App is generated in the `client` directory.
    ```js
-   npx truffle unbox rsksmart/react
+   npx truffle unbox rsksmart/rsk-react-box
    ```
 
 2. Alternatively, you can install Truffle globally and run the `unbox` command.
     ```javascript
     npm install -g truffle
-    truffle unbox rsksmart/react
+    truffle unbox rsksmart/rsk-react-box
     ```
 
 3. Run the development console.

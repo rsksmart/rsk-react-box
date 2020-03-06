@@ -57,7 +57,7 @@ First ensure you are in a new and empty directory.
     ```
 ## RSK
 
-### Setup an account & get RBTC
+### Setup an account & get R-BTC
 
 - Get an address using [these instructions](https://developers.rsk.co/rsk/architecture/account-based/ "Account Based RSK Addresses - RSK Developers Portal").
 - For the RSK Testnet, get tR-BTC from [our faucet](https://faucet.testnet.rsk.co/).
